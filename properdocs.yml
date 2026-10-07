@@ -1,6 +1,7 @@
 site_name: Proyecto 26/27
 nav:
   - PRACTICA 01 - CONFIGURACIÓN E INSTALACIÓN DEL ENTORNO: practica01.md
+  - PRACTICA 02 - DOCUMENTACIÓN: documentacion-practica02.md
 
 theme:
   name: readthedocs
